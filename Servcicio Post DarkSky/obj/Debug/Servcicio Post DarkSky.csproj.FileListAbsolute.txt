@@ -1,0 +1,39 @@
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.exe.config
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.exe
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.pdb
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csprojAssemblyReference.cache
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\obj\Debug\Servcicio_Post_DarkSky.Form1.resources
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\obj\Debug\Servcicio_Post_DarkSky.Properties.Resources.resources
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.GenerateResource.cache
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.exe
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.pdb
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pablo Fiscella\source\repos\Fiscella\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.CopyComplete
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.exe.config
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.exe
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.pdb
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csprojAssemblyReference.cache
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\obj\Debug\Servcicio_Post_DarkSky.Form1.resources
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\obj\Debug\Servcicio_Post_DarkSky.Properties.Resources.resources
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.GenerateResource.cache
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.CoreCompileInputs.cache
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.CopyComplete
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.exe
+C:\Users\GOSTE\source\repos\Pineiro\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.pdb
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csprojAssemblyReference.cache
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\obj\Debug\Servcicio_Post_DarkSky.Form1.resources
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\obj\Debug\Servcicio_Post_DarkSky.Properties.Resources.resources
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.GenerateResource.cache
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.CoreCompileInputs.cache
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.exe
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.pdb
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.exe.config
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.exe
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\bin\Debug\Servcicio Post DarkSky.pdb
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LeandroeIleana\source\repos\Ileana_Pineiro_Ejercicios\Servcicio Post DarkSky\obj\Debug\Servcicio Post DarkSky.csproj.CopyComplete
